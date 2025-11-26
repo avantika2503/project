@@ -22,11 +22,10 @@ A detailed comparison of accuracy, precision, recall, F1-score, and training beh
 ## 📂 Repository Structure
 
 📦 Sentiment-Analysis-IMDb
-├── BERT FINAL.ipynb        # Fine-tuned DistilBERT implementation
-├── bag-of-words.ipynb      # Bag-of-Words + ML classifiers
-├── tfidf (1).ipynb         # TF–IDF + ML classifiers
-└── README.md               # Project documentation
-
+├── BERT FINAL.ipynb # Fine-tuned DistilBERT implementation
+├── bag-of-words.ipynb # Bag-of-Words + ML classifiers
+├── tfidf (1).ipynb # TF–IDF + ML classifiers
+└── README.md # Project documentation
 ---
 
 ## 📊 Dataset
@@ -63,8 +62,6 @@ Trained using classifiers such as:
 Tables for accuracy comparison available in the paper:
 - Table 1 (Bag-of-Words) — page 4  
 - Table 2 (TF–IDF) — page 5  
-:contentReference[oaicite:2]{index=2}
-
 ---
 
 ### **Deep Learning Method: DistilBERT**
@@ -99,9 +96,6 @@ Training details (from *Section III-E*, page 3):
 | Passive Aggressive Classifier (2023) | 90.27% |
 | USE (2022) | 84.49% |
 | Logistic Regression (2022) | 88% |
-
-(Shown in *Table 3* and *Fig. 6*.)  
-:contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -154,5 +148,4 @@ DOI: https://doi.org/10.1109/ICPCT64145.2025.10940336
 
 **Avantika Yadav**  
 B.Tech CSE — Manipal University Jaipur  
-Email: avantiika.yadav@gmail.com  
 
