@@ -21,7 +21,6 @@ A detailed comparison of accuracy, precision, recall, F1-score, and training beh
 
 ## 📂 Repository Structure
 
-```text
 📦 Sentiment-Analysis-IMDb
 ├── BERT FINAL.ipynb        # Fine-tuned DistilBERT implementation
 ├── bag-of-words.ipynb      # Bag-of-Words + ML classifiers
