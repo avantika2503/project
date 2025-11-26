@@ -1,6 +1,3 @@
-Dataset:  IMDB dataset having 50K movie reviews for natural language processing or Text analytics.
-https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data
-Accuracy: 94.2% using DistilBERT model
 # Sentiment Analysis of IMDb Movie Reviews using DistilBERT
 
 This repository contains the implementation for my research work **“Sentiment Analysis of Movie Reviews Using Deep Learning and NLP Models,”** published at **IEEE ICPCT 2025**.
@@ -22,15 +19,14 @@ A detailed comparison of accuracy, precision, recall, F1-score, and training beh
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
+```text
 📦 Sentiment-Analysis-IMDb
-├── BERT FINAL.ipynb # Fine-tuned DistilBERT implementation
-├── bag-of-words.ipynb # Bag-of-Words + ML classifiers
-├── tfidf (1).ipynb # TF-IDF + ML classifiers
-└── README.md # Project documentation
-
-
+├── BERT FINAL.ipynb        # Fine-tuned DistilBERT implementation
+├── bag-of-words.ipynb      # Bag-of-Words + ML classifiers
+├── tfidf (1).ipynb         # TF–IDF + ML classifiers
+└── README.md               # Project documentation
 
 ---
 
@@ -133,7 +129,6 @@ You can test a custom review using the last cell of `BERT FINAL.ipynb`.
 Example:
 Review: "This movie was beautifully directed and emotionally rich."
 Output: Positive (0.97)
-
 
 ---
 
